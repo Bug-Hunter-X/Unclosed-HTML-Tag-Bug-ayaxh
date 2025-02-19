@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: an unclosed tag.  Unclosed tags can cause rendering problems and impact the overall visual presentation of a webpage. The `bug.html` file shows the erroneous code, while `bugSolution.html` provides the corrected version.  This simple example highlights the importance of careful HTML coding practices.
